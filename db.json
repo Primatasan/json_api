@@ -1,0 +1,26 @@
+{
+    "pessoas": [
+
+        {
+            "id":1,
+            "nome":"Carlos",
+            "idade": 36
+        },
+        {
+            "id":2,
+            "nome":"Livia",
+            "idade": 37
+        },
+        {
+            "id":3,
+            "nome":"Laís",
+            "idade": 30
+        },
+        {
+            "id":4,
+            "nome":"Neto",
+            "idade": 36
+        }
+
+    ]
+}
